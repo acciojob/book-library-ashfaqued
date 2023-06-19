@@ -1,9 +1,12 @@
 /*  your css code here. If applicable */
 .book-library>div{
 	background:#f8f8f8
+	
 }
 .book{
 	background:#ffffff;
+	box-sizing:border-box;
+	box-shadow:1px 1px 1px 1px gray;
 }
 .book > sapn{
 	font-color:#777777;
